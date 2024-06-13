@@ -33,6 +33,7 @@ function App(){
       <div>
         <h1>{counter}</h1>
         <h4>{counter}</h4>
+        <h3>{counter}</h3>
       </div>
     )
 }
